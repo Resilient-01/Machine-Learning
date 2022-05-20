@@ -1,3 +1,5 @@
 # MachineLearning101
 SUPERVISED LEARNING
-  classification models - logistic regression and KNN
+  
+  1. classification models - logistic regression and KNN
+  2. Youtube Data Analytics - EDA
