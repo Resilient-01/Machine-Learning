@@ -1,4 +1,4 @@
-# MachineLearning101
+# All CV projects
 SUPERVISED LEARNING
   
   1. classification models - logistic regression and KNN
