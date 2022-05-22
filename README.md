@@ -1,4 +1,4 @@
-# All CV projects
+# Machine Learning
 SUPERVISED LEARNING
   
   1. classification models - logistic regression and KNN
